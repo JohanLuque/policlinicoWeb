@@ -60,5 +60,106 @@ document.addEventListener("DOMContentLoaded", function (){
     </nav> 
   
   `;
+  const footer = 
+    `
+    <div class="container fi-br-align-justify">
+          <div class="row" >
+            <div class="col-group">
+              <h1 style="color: #ff7619; font-weight: bolder;  text-align: center;">CONTÁCTANOS</h1>
+            </div>          
+          </div>
+          <div class="row mt-4">
+            <!-- correo y telefono -->
+            <div class="col-md">            
+              <div class="container">
+                <div class="row">
+                  <h4 style="color: #ff7619; font-weight: bolder;">Correo:</h4><br>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-md-1">
+                    <i class="fa-solid fa-envelope fa-lg" style="color: #8f0000;"></i>
+                  </div>
+                  <div class="col-md-11">
+                    <label for="" style="text-size-adjust: 0.5px;">Polisolida2030@gmail.com</label>
+                  </div>
+                </div>
+  
+                <div class="row mt-4">
+                  <h4 style="color: #ff7619; font-weight: bolder;">Teléfono:</h4><br>
+                </div>
+  
+                <div class="row mt-3">
+                  <div class="col-md-1">
+                    <i class="fa-solid fa-phone-volume fa-lg" style="color: #0b3d93;"></i>
+                  </div>
+                  <div class="col-md-11">
+                    <h6>+51 956 784 052</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- redes -->
+            <div class="col-md">
+              <div class="container">
+                <div class="row">
+                  <h4 style="color: #ff7619; font-weight: bolder;">Redes sociales:</h4><br>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-md-1">
+                    <a href="https://www.facebook.com/Policlinico.SolidarioChincha/" target="_blank">
+                      <i class="fa-brands fa-square-facebook fa-2xl" style="color: #0049c7;"></i>
+                    </a> 
+                  </div>
+                  <div class="col-md-11">
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #0049c7;" href="https://www.facebook.com/Policlinico.SolidarioChincha/" target="_blank"><h6>Facebook</h6></a>
+                  </div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-md-1">
+                    <a href="https://instagram.com/policlinico_solidarioch?igshid=YmMyMTA2M2Y=" target="_blank">
+                      <i class="fa-brands fa-instagram fa-2xl" style="color: #f91f56;"></i>
+                    </a>
+                  </div>
+                  <div class="col-md-11">
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #f91f56;" href="https://instagram.com/policlinico_solidarioch?igshid=YmMyMTA2M2Y=" target="_blank"><h6>Instagram</h6></a>
+                  </div>
+      
+                </div>
+                <div class="row mt-3">
+                  <div class="col-md-1">
+                    <a href="https://api.whatsapp.com/send?phone=956784052&text=Hola%20me%20gustaria%20hacer%20una%20consulta" target="_blank">
+                      <i class="fa-brands fa-whatsapp fa-2xl" style="color: #10df01;"></i>
+                    </a>
+                  </div>
+                  <div class="col-md-11">
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #10df01;"  href="https://api.whatsapp.com/send?phone=956784052&text=Hola%20me%20gustaria%20hacer%20una%20consulta" target="_blank"><h6>WhatsApp</h6></a>                    
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md">
+              <div class="container">
+                <div class="row">
+                  <h4 style="color: #ff7619; font-weight: bolder;" class="mb-2">Ubícanos:</h4>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-md-1">
+                    <a href="https://www.google.com/maps/place/POLICLINICO+SOLIDARIO+CHINCHA/@-13.4241169,-76.1357736,17z/data=!3m1!4b1!4m6!3m5!1s0x9110176f21f8bbbd:0x42468ad889ad391!8m2!3d-13.4241169!4d-76.1331987!16s%2Fg%2F11szmghn15?hl=es&entry=ttu" target="_blank">
+                      <i class="fa-sharp fa-solid fa-location-dot fa-bounce fa-2xl" style="color: #d11a1a;"></i>
+                    </a>
+                  </div>
+                  <div class="col-md-11">
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: rgb(0, 0, 0);" href="https://www.google.com/maps/place/POLICLINICO+SOLIDARIO+CHINCHA/@-13.4241169,-76.1357736,17z/data=!3m1!4b1!4m6!3m5!1s0x9110176f21f8bbbd:0x42468ad889ad391!8m2!3d-13.4241169!4d-76.1331987!16s%2Fg%2F11szmghn15?hl=es&entry=ttu" target="_blank"><h6>Av. San Idelfonso #199 - Chincha(Costado de EsSalud Emergencia)</h6></a>
+                  </div>
+      
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div> 
+    
+    `;
+  document.getElementById("contact").innerHTML = footer;
   document.getElementById("mainheader").innerHTML = header;
 });
