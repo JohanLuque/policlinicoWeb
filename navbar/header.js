@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function (){
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/odontologia.html">Odontología</a></li>
               </ul>
             </li>
-            <li class="nav-item"><a  class="nav-link fs-5" style="color: #447ae0;" href="../index.html#trabaja">TRABAJA CON NOSOTROS</a></li>
+            <li class="nav-item"><a  class="nav-link fs-5" style="color: #447ae0;" href="../servicios/trabajaNosotros.html">TRABAJA CON NOSOTROS</a></li>
             <li class="nav-item"><a  class="nav-link fs-5" style="color: #447ae0;" href="../index.html#contact">CONTACTO</a></li>
           </ul>
         </div>
@@ -149,7 +149,7 @@ document.addEventListener("DOMContentLoaded", function (){
                     </a>
                   </div>
                   <div class="col-md-11">
-                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: rgb(0, 0, 0);" href="https://www.google.com/maps/place/POLICLINICO+SOLIDARIO+CHINCHA/@-13.4241169,-76.1357736,17z/data=!3m1!4b1!4m6!3m5!1s0x9110176f21f8bbbd:0x42468ad889ad391!8m2!3d-13.4241169!4d-76.1331987!16s%2Fg%2F11szmghn15?hl=es&entry=ttu" target="_blank"><h6>Av. San Idelfonso #199 - Chincha(Costado de EsSalud Emergencia)</h6></a>
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: rgb(0, 0, 0);" href="https://www.google.com/maps/place/POLICLINICO+SOLIDARIO+CHINCHA/@-13.4241169,-76.1357736,17z/data=!3m1!4b1!4m6!3m5!1s0x9110176f21f8bbbd:0x42468ad889ad391!8m2!3d-13.4241169!4d-76.1331987!16s%2Fg%2F11szmghn15?hl=es&entry=ttu" target="_blank"><h6>Av. San Idelfonso #199 - Chincha(Al lado de EsSalud Emergencia)</h6></a>
                   </div>
       
                 </div>
