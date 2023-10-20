@@ -135,6 +135,26 @@ document.addEventListener("DOMContentLoaded", function (){
                     <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #10df01;"  href="https://api.whatsapp.com/send?phone=956784052&text=Hola%20me%20gustaria%20hacer%20una%20consulta" target="_blank"><h6>WhatsApp</h6></a>                    
                   </div>
                 </div>
+                <div class="row mt-3">
+                <div class="col-md-1">
+                  <a href="https://youtube.com/@PoliClinicoSolidariodeChincha?si=Zu6FewheAiPkzrkA" target="_blank">
+                    <i class="fa-brands fa-youtube fa-xl" style="color: #fe0b30;"></i>
+                  </a>
+                </div>
+                <div class="col-md-11">
+                  <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #fe0b30;"  href="https://youtube.com/@PoliClinicoSolidariodeChincha?si=Zu6FewheAiPkzrkA" target="_blank"><h6>YouTube</h6></a>                    
+                </div>
+              </div>
+              <div class="row mt-3">
+                <div class="col-md-1">
+                  <a href="https://www.tiktok.com/@policlinico.solidario?_t=8gNYzzyJC8T&_r=1" target="_blank">
+                    <i class="fa-brands fa-tiktok fa-2xl" style="color: #000000;"></i>
+                  </a>
+                </div>
+                <div class="col-md-11">
+                  <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #000000;"  href="https://www.tiktok.com/@policlinico.solidario?_t=8gNYzzyJC8T&_r=1" target="_blank"><h6>TikTok</h6></a>                    
+                </div>
+              </div>
               </div>
             </div>
             <div class="col-md">
