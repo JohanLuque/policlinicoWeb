@@ -8,8 +8,8 @@ document.addEventListener("DOMContentLoaded", function (){
         </div>
         <div class="col-md">
           <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-             <i class="fa-solid fa-bars fa-lg" style="color: #ffffff;"></i>
-           </button>
+            <i class="fa-solid fa-bars fa-lg" style="color: #447ae0;"></i>
+          </button>
         </div>
         <div class="collapse navbar-collapse" id="navbarText">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function (){
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../servicios/topico.html">Topico</a></li>
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../servicios/electrocardiograma.html">Electrocardiograma</a></li>
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../servicios/medidavista.html">Medida de vista</a></li>
-                <li><a class="dropdown-item" style="color: #447ae0;" href="../servicios/nebulizacion.html">Nebulización</a></li>
+
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../servicios/anatomiapato.html">Anatomía Patológica</a></li>
               </ul>
             </li>
@@ -47,7 +47,6 @@ document.addEventListener("DOMContentLoaded", function (){
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/terapialenguaje.html">Terapia de lenguaje</a></li>
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/psicologia.html">Psicología</a></li>
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/otorrinolaringologia.html">Otorrinolaringología</a></li>
-                <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/m.complementaria.html">Medicina complementaria</a></li>
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/odontopediatria.html">Odontopediatría</a></li>
                 <li><a class="dropdown-item" style="color: #447ae0;" href="../especialidades/odontologia.html">Odontología</a></li>
               </ul>
