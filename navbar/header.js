@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function (){
   const header = 
   `
-  <nav class="navbar navbar-expand-md navbar-light fixed shadow rounded" style="background-color:#F2F2F2;">
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top rounded text-center" style="background-color:#F2F2F2;">
       <div class="container-fluid">          
         <div class="col md">
           <a class="navbar-brand" href="#" style="color: #ffffff;font-weight: bold;" ><img class="ms-5" src="../imagenes/LOGO SIN FONDO 1.png" alt="" width="200"></a>
