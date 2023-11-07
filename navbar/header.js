@@ -72,27 +72,25 @@ document.addEventListener("DOMContentLoaded", function (){
             <div class="col-md">            
               <div class="container">
                 <div class="row">
-                  <h4 style="color: #ff7619; font-weight: bolder;">Correo:</h4><br>
-                </div>
-                <div class="row mt-3">
-                  <div class="col-md-1">
-                    <i class="fa-solid fa-envelope fa-lg" style="color: #8f0000;"></i>
+                  <div class="col-md">
+                    <h4 style="color: #ff7619; font-weight: bolder;">Correo:</h4><br>
                   </div>
-                  <div class="col-md-11">
+                </div>
+                <div class="row">
+                  <div class="col-md">
+                    <i class="fa-solid fa-envelope fa-lg" style="color: #8f0000;"></i>
                     <label for="" style="text-size-adjust: 0.5px;">Polisolida2030@gmail.com</label>
                   </div>
                 </div>
-  
                 <div class="row mt-4">
-                  <h4 style="color: #ff7619; font-weight: bolder;">Teléfono:</h4><br>
-                </div>
-  
-                <div class="row mt-3">
-                  <div class="col-md-1">
-                    <i class="fa-solid fa-phone-volume fa-lg" style="color: #0b3d93;"></i>
+                  <div class="col-md">
+                    <h4 style="color: #ff7619; font-weight: bolder;">Teléfono:</h4><br>
                   </div>
-                  <div class="col-md-11">
-                    <h6>+51 956 784 052</h6>
+                </div>
+                <div class="row">
+                  <div class="col-md">
+                    <i class="fa-solid fa-phone-volume fa-lg" style="color: #0b3d93;"></i>
+                    <label style="text-size-adjust: 0.5px;">+51 956 784 052</label>
                   </div>
                 </div>
               </div>
@@ -101,60 +99,50 @@ document.addEventListener("DOMContentLoaded", function (){
             <div class="col-md">
               <div class="container">
                 <div class="row">
-                  <h4 style="color: #ff7619; font-weight: bolder;">Redes sociales:</h4><br>
+                  <div class="col-md">
+                    <h4 style="color: #ff7619; font-weight: bolder;">Redes sociales:</h4><br>
+                  </div>
                 </div>
-                <div class="row mt-3">
-                  <div class="col-md-1">
+                <div class="row">
+                  <div class="col-md">
                     <a href="https://www.facebook.com/Policlinico.SolidarioChincha/" target="_blank">
                       <i class="fa-brands fa-square-facebook fa-2xl" style="color: #0049c7;"></i>
                     </a> 
-                  </div>
-                  <div class="col-md-11">
-                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #0049c7;" href="https://www.facebook.com/Policlinico.SolidarioChincha/" target="_blank"><h6>Facebook</h6></a>
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #0049c7;" href="https://www.facebook.com/Policlinico.SolidarioChincha/" target="_blank">Facebook</a>
                   </div>
                 </div>
                 <div class="row mt-3">
-                  <div class="col-md-1">
+                  <div class="col-md">
                     <a href="https://instagram.com/policlinico_solidarioch?igshid=YmMyMTA2M2Y=" target="_blank">
                       <i class="fa-brands fa-instagram fa-2xl" style="color: #f91f56;"></i>
                     </a>
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #f91f56;" href="https://instagram.com/policlinico_solidarioch?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a>
                   </div>
-                  <div class="col-md-11">
-                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #f91f56;" href="https://instagram.com/policlinico_solidarioch?igshid=YmMyMTA2M2Y=" target="_blank"><h6>Instagram</h6></a>
-                  </div>
-      
                 </div>
                 <div class="row mt-3">
-                  <div class="col-md-1">
+                  <div class="col-md">
                     <a href="https://api.whatsapp.com/send?phone=956784052&text=Hola%20me%20gustaria%20hacer%20una%20consulta" target="_blank">
                       <i class="fa-brands fa-whatsapp fa-2xl" style="color: #10df01;"></i>
                     </a>
-                  </div>
-                  <div class="col-md-11">
-                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #10df01;"  href="https://api.whatsapp.com/send?phone=956784052&text=Hola%20me%20gustaria%20hacer%20una%20consulta" target="_blank"><h6>WhatsApp</h6></a>                    
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #10df01;"  href="https://api.whatsapp.com/send?phone=956784052&text=Hola%20me%20gustaria%20hacer%20una%20consulta" target="_blank">WhatsApp</a>                    
                   </div>
                 </div>
                 <div class="row mt-3">
-                <div class="col-md-1">
-                  <a href="https://youtube.com/@PoliClinicoSolidariodeChincha?si=Zu6FewheAiPkzrkA" target="_blank">
-                    <i class="fa-brands fa-youtube fa-xl" style="color: #fe0b30;"></i>
-                  </a>
+                  <div class="col-md">
+                    <a href="https://youtube.com/@PoliClinicoSolidariodeChincha?si=Zu6FewheAiPkzrkA" target="_blank">
+                      <i class="fa-brands fa-youtube fa-xl" style="color: #fe0b30;"></i>
+                    </a>
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #fe0b30;"  href="https://youtube.com/@PoliClinicoSolidariodeChincha?si=Zu6FewheAiPkzrkA" target="_blank">YouTube</a>                    
+                  </div>
                 </div>
-                <div class="col-md-11">
-                  <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #fe0b30;"  href="https://youtube.com/@PoliClinicoSolidariodeChincha?si=Zu6FewheAiPkzrkA" target="_blank"><h6>YouTube</h6></a>                    
+                <div class="row mb-3 mt-3">
+                  <div class="col-md">
+                    <a href="https://www.tiktok.com/@policlinico.solidario?_t=8gNYzzyJC8T&_r=1" target="_blank">
+                      <i class="fa-brands fa-tiktok fa-2xl" style="color: #000000;"></i>
+                    </a>
+                    <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #000000;"  href="https://www.tiktok.com/@policlinico.solidario?_t=8gNYzzyJC8T&_r=1" target="_blank">TikTok</a>                    
+                  </div>
                 </div>
-              </div>
-              <div class="row mt-3">
-                <div class="col-md-1">
-                  <a href="https://www.tiktok.com/@policlinico.solidario?_t=8gNYzzyJC8T&_r=1" target="_blank">
-                    <i class="fa-brands fa-tiktok fa-2xl" style="color: #000000;"></i>
-                  </a>
-                </div>
-                <div class="col-md-11">
-                  <a class="link-offset-2 link-underline link-underline-opacity-0" style="color: #000000;"  href="https://www.tiktok.com/@policlinico.solidario?_t=8gNYzzyJC8T&_r=1" target="_blank"><h6>TikTok</h6></a>                    
-                </div>
-              </div>
-              </div>
             </div>
             <div class="col-md">
               <div class="container">
